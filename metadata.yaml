@@ -1,0 +1,44 @@
+_repo: Die-Frau-von-drei-ig-Jahren_26261
+_version: 0.1.0
+alternative_title:
+- Frau von dreissig Jahren
+- La femme de trente ans. German
+contributor:
+  translator:
+    agent_name: Heichen, Walter
+    birthdate: 1876
+    gutenberg_agent_id: '31886'
+    url: http://www.gutenberg.org/2009/agents/31886
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2008-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26261'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Marriage -- Fiction'
+title: Die Frau von dreißig Jahren
+url: http://www.gutenberg.org/ebooks/26261
